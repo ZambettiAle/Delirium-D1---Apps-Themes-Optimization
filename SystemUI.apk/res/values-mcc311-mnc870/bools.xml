@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_showMin3G">true</bool>
+    <bool name="APKTOOL_DUMMY_0017">false</bool>
+    <bool name="APKTOOL_DUMMY_0022">false</bool>
+    <bool name="APKTOOL_DUMMY_0023">false</bool>
+</resources>
