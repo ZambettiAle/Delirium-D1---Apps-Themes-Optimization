@@ -77,7 +77,7 @@
     <color name="keyguard_avatar_frame_pressed_color">#ff35b5e5</color>
     <color name="accessibility_focus_highlight">#bf39b500</color>
     <color name="system_notification_accent_color">#ff607d8b</color>
-    <color name="battery_saver_mode_color">#fff4511e</color>
+    <color name="battery_saver_mode_color">@color/transparent</color>
     <color name="user_icon_1">#ff00bcd4</color>
     <color name="user_icon_2">#ff3f51b5</color>
     <color name="user_icon_3">#ff4285f4</color>
