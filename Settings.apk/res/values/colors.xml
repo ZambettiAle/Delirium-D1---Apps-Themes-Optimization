@@ -49,5 +49,5 @@
     <color name="dashboard_background_color">#ffff5722</color>
     <color name="switchbar_background_color">#ffbdbdbd</color>
     <color name="switch_accent_color">#ff7fcac3</color>
-    <color name="wifi_divider">#ffe0e0e0</color>
+    <color name="wifi_divider">#ffff5722</color>
 </resources>
