@@ -358,7 +358,7 @@
 		<item name="android:colorPrimaryDark">#ffffffff</item>
 		<item name="android:textColorPrimary">#ff000000</item>
 		<item name="android:textColorSecondary">#ff000000</item>
-		<item name="android:colorBackground">#ff272d33</item>
+		<item name="android:colorBackground">#ffffffff</item>
         <item name="android:actionBarStyle">@style/Theme.ActionBar</item>
         <item name="android:actionBarSize">@dimen/actionbar_size</item>
         <item name="android:alertDialogTheme">@style/Theme.AlertDialog</item>
@@ -415,7 +415,10 @@
         <item name="android:successColor">@color/unlock_pattern_view_success_color</item>
     </style>
     <style name="Theme.SubSettingsDialogWhenLarge" parent="@style/Theme.DialogWhenLarge">
-        <item name="android:actionBarWidgetTheme">@null</item>
+        <item name="android:textColorPrimary">#ff000000</item>
+		<item name="android:textColorSecondary">#ff000000</item>
+		<item name="android:background">#ffffffff</item>
+		<item name="android:actionBarWidgetTheme">@null</item>
         <item name="android:actionBarTheme">@android:style/ThemeOverlay.Material.Dark.ActionBar</item>
         <item name="preferenceBackgroundColor">@drawable/preference_background</item>
     </style>
