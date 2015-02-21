@@ -352,8 +352,13 @@
         <item name="ic_wps">@drawable/ic_wps_light</item>
         <item name="wifi_signal">@drawable/wifi_signal_light</item>
     </style>
-    <style name="Theme.SettingsBase" parent="@android:style/Theme.Material.Settings" />
+    <style name="Theme.SettingsBase" parent="@android:style/Theme.Material" />
     <style name="Theme.Settings" parent="@style/Theme.SettingsBase">
+		<item name="android:colorPrimary">#ffffffff</item>
+		<item name="android:colorPrimaryDark">#ffffffff</item>
+		<item name="android:textColorPrimary">#ff000000</item>
+		<item name="android:textColorSecondary">#ff000000</item>
+		<item name="android:colorBackground">#ff272d33</item>
         <item name="android:actionBarStyle">@style/Theme.ActionBar</item>
         <item name="android:actionBarSize">@dimen/actionbar_size</item>
         <item name="android:alertDialogTheme">@style/Theme.AlertDialog</item>
