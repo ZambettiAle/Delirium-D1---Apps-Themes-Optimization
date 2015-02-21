@@ -5,7 +5,7 @@
         <item>100</item>
     </integer-array>
     <array name="batterymeter_color_values">
-        <item>@android:color/battery_saver_mode_color</item>
+        <item>#ffff0000</item>
         <item>#ffffffff</item>
     </array>
     <integer-array name="batterymeter_bolt_points">
