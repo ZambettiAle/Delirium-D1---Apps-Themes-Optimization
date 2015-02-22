@@ -31,7 +31,7 @@
     <bool name="config_wifi_batched_scan_supported">true</bool>
     <bool name="config_automatic_brightness_available">true</bool>
     <bool name="config_annoy_dianne">true</bool>
-    <bool name="config_unplugTurnsOnScreen">true</bool>
+    <bool name="config_unplugTurnsOnScreen">false</bool>
     <bool name="config_useAttentionLight">false</bool>
     <bool name="config_animateScreenLights">false</bool>
     <bool name="config_enableScreenshotChord">true</bool>
